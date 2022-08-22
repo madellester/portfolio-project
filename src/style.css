@@ -1,5 +1,5 @@
 :root {
-  --primary-font:"Playfair Display", serif;
+  --primary-font: "Playfair Display", serif;
   --secondary-font: "Poppins", sans-serif;
 }
 
@@ -14,7 +14,7 @@ h1 {
   font-weight: 800;
 }
 p {
-  font-family: var(--secondary-font)
+  font-family: var(--secondary-font);
   font-weight: bold;
 }
 .ml-pic {
