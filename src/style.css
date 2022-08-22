@@ -43,3 +43,20 @@ p {
 .social-media {
   text-align: center;
 }
+.about-me-section {
+  padding-left: 160px;
+  padding-right: 160px;
+}
+
+.work-experience-section,
+.skills-section {
+  padding-top: 40px;
+}
+
+.skills-section {
+  padding-bottom: 40px;
+}
+
+.interests-section {
+  padding-bottom: 160px;
+}
