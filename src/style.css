@@ -23,3 +23,8 @@ p {
 .ml-pic {
   max-width: 350px;
 }
+
+.contact-section {
+  padding: 50px;
+  text-align: center;
+}
