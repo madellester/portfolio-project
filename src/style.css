@@ -5,14 +5,18 @@
   --secondary-color: #84a35d;
 }
 
-.hero,
-.projects-header {
+.hero {
   background-color: var(--primary-color);
   padding: 160px;
+  padding-bottom: 60px;
 }
 
-.hero {
-  padding-bottom: 60px;
+.projects-header,
+.about-me-header {
+  background-color: var(--primary-color);
+  text-align: left;
+  padding: 160px;
+  padding-bottom: 50px;
 }
 
 h1 {
@@ -38,8 +42,4 @@ p {
 }
 .social-media {
   text-align: center;
-}
-
-.projects-header {
-  padding-top: 300px;
 }
