@@ -5,7 +5,8 @@
   --secondary-color: #84a35d;
 }
 
-.hero {
+.hero,
+.projects-header {
   background-color: var(--primary-color);
   padding: 160px;
 }
@@ -33,4 +34,8 @@ p {
 }
 .social-media {
   text-align: center;
+}
+
+.projects-header {
+  padding-top: 300px;
 }
