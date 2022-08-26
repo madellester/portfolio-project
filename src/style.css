@@ -13,10 +13,19 @@
 
 .projects-header,
 .about-me-header {
-  background-color: var(--primary-color);
   text-align: left;
-  padding: 160px;
   padding-bottom: 50px;
+}
+
+.about-me-header {
+  background-color: var(--primary-color);
+  padding: 160px;
+}
+
+.projects-header {
+  background-color: white;
+  padding-left: 160px;
+  padding-top: 70px;
 }
 
 h1 {
