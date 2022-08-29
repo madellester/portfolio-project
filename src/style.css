@@ -19,7 +19,9 @@
   padding-bottom: 30px;
 }
 
-h1 {
+h1,
+.projects-header,
+.about-me-header {
   color: var(--secondary-color);
   font-family: var(--primary-font);
   font-size: 60px;
@@ -57,7 +59,8 @@ p {
   padding-bottom: 40px;
 }
 
-.interests-section {
+.interests-section,
+.app-preview-display {
   padding-bottom: 160px;
 }
 hr {
@@ -65,4 +68,9 @@ hr {
 }
 .app {
   padding-top: 60px;
+}
+
+.header {
+  font-family: var(--primary-font);
+  font-weight: bold;
 }
