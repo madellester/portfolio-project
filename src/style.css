@@ -78,6 +78,7 @@ hr {
 .header {
   font-family: var(--primary-font);
   font-weight: bold;
+  font-size: 30px;
 }
 .navbar-brand,
 .nav-link,
