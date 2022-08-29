@@ -16,7 +16,7 @@
   background-color: white;
   padding-left: 160px;
   padding-top: 70px;
-  padding-bottom: 30px;
+  padding-bottom: 40px;
 }
 
 h1,
@@ -45,21 +45,18 @@ p {
 .social-media {
   text-align: center;
 }
-.about-me-section {
-  padding-left: 160px;
-  padding-right: 160px;
-}
 
 .work-experience-section,
-.skills-section {
-  padding-top: 40px;
+.skills-section,
+.interests-section {
+  padding: 40px;
+  padding-bottom: 160px;
 }
 
 .skills-section {
   padding-bottom: 40px;
 }
 
-.interests-section,
 .app-preview-display {
   padding-bottom: 160px;
 }
