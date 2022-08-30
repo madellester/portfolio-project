@@ -86,3 +86,15 @@ hr {
 li {
   font-family: var(--secondary-font);
 }
+
+@media (max-width: 960px) {
+  .hero {
+    padding: 70px;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  .job-title {
+    font-size: 15px;
+  }
+}
