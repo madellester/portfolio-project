@@ -16,7 +16,7 @@
   background-color: white;
   padding-left: 160px;
   padding-top: 70px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;
 }
 
 h1,
@@ -35,7 +35,7 @@ p {
 }
 
 .contact-section {
-  padding: 200px;
+  padding: 160px;
   text-align: center;
 }
 .fa-brands {
