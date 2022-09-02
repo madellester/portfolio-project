@@ -35,7 +35,7 @@ p {
 }
 
 .contact-section {
-  padding: 160px;
+  padding: 200px;
   text-align: center;
 }
 .fa-brands {
@@ -93,12 +93,24 @@ li {
     padding-top: 100px;
   }
   .ml-pic {
-    max-width: 100px;
+    max-width: 200px;
+    padding-right: 10px;
   }
   h1 {
-    font-size: 40px;
+    font-size: 30px;
   }
   .job-title {
-    font-size: 15px;
+    font-size: 14px;
+  }
+  .contact-section {
+    padding: 10px;
+    padding-top: 100px;
+  }
+  .header {
+    font-size: 20px;
+  }
+  .contact-message,
+  .app-description {
+    font-size: 12px;
   }
 }
