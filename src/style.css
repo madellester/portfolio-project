@@ -89,7 +89,7 @@ li {
 
 @media (max-width: 960px) {
   .hero {
-    padding: 70px;
+    padding: 0px;
   }
   h1 {
     font-size: 40px;
