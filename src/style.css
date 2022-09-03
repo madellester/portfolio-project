@@ -29,7 +29,8 @@ h1,
   font-size: 60px;
   font-weight: 800;
 }
-p {
+p,
+li {
   font-family: var(--secondary-font);
 }
 .ml-pic {
@@ -116,13 +117,19 @@ li {
   .projects-header {
     font-size: 45px;
     padding-top: 80px;
-    padding-bottom: 40px;
+    padding-bottom: 10px;
   }
   .work-experience-section,
   .skills-section,
   .interests-section {
-    padding: 20px;
-    font-size: 12px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .skills-header,
+  .work-experience-section,
+  .interests-section {
+    text-align: center;
   }
   .interests-section {
     padding-bottom: 80px;
@@ -135,7 +142,11 @@ li {
     font-size: 25px;
   }
   .contact-message,
-  .app-description {
+  .app-description,
+  li,
+  .interests-description,
+  .skills-description,
+  .work-description {
     font-size: 14px;
   }
   .contact-section {
@@ -147,5 +158,13 @@ li {
   }
   .app {
     padding: 1px;
+  }
+  .portfolio-app,
+  .weather-app,
+  .boba-app {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
   }
 }
