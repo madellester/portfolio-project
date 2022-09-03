@@ -126,4 +126,7 @@ li {
   .app-description {
     font-size: 12px;
   }
+  .contact-section {
+    padding: 20px;
+  }
 }
