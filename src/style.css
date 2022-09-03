@@ -84,6 +84,12 @@ hr {
 .btn,
 li {
   font-family: var(--secondary-font);
+  transition: all 200ms ease-in-out !important;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+  color: var(--secondary-color) !important;
 }
 
 @media (max-width: 960px) {
