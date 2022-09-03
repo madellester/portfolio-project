@@ -8,7 +8,7 @@
 .hero {
   background-color: var(--primary-color);
   padding: 160px;
-  padding-bottom: 180px;
+  padding-bottom: 190px;
 }
 
 .projects-header,
@@ -32,6 +32,7 @@ p {
 }
 .ml-pic {
   max-width: 350px;
+  padding-left: 20px;
 }
 
 .contact-section {
@@ -47,7 +48,6 @@ p {
 
 .work-experience-section {
   padding-top: 40px;
-  padding-bottom: 100px;
 }
 
 .app-preview-display {
@@ -82,14 +82,10 @@ li {
     padding-right: 10px;
   }
   h1 {
-    font-size: 30px;
+    font-size: 1px;
   }
   .job-title {
     font-size: 14px;
-  }
-  .contact-section {
-    padding: 10px;
-    padding-top: 100px;
   }
   .header {
     font-size: 20px;
