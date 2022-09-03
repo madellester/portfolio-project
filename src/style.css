@@ -159,12 +159,20 @@ li {
   .app {
     padding: 1px;
   }
+  .boba-app {
+    padding-top: 5px !important;
+    padding-bottom: 20px !important;
+  }
+  .weather-app {
+    padding-bottom: 20px !important;
+  }
+  .portfolio-app {
+    padding-bottom: 5px !important;
+  }
   .portfolio-app,
   .weather-app,
   .boba-app {
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-    padding-top: 5px !important;
-    padding-bottom: 5px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
   }
 }
