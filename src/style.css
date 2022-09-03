@@ -76,22 +76,22 @@ li {
   .hero {
     padding: 20px;
     padding-top: 100px;
-    padding-left: 20px;
   }
   .ml-pic {
-    max-width: 200px;
+    max-width: 150px;
     padding-right: 10px;
     padding-left: 10px;
   }
   h1 {
-    font-size: 35px;
+    font-size: 25px;
   }
   .job-title {
     font-size: 10px;
-    padding-right: 10px;
+    padding-right: 20px;
+    padding-bottom: 40px;
   }
   .btn {
-    padding: 5px 1px;
+    padding: 5px 3px;
     font-size: 10px;
   }
   .header {
