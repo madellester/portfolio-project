@@ -109,7 +109,11 @@ li {
     padding: 20px;
     text-align: center;
   }
-
+  .about-me-header,
+  .projects-header {
+    padding-top: 80px;
+    padding-bottom: 40px;
+  }
   .work-experience-section,
   .skills-section,
   .interests-section {
@@ -129,8 +133,12 @@ li {
   }
   .contact-section {
     padding: 20px;
+    padding-top: 80px;
   }
   .social-media {
     font-size: 10px;
+  }
+  .app {
+    padding: 1px;
   }
 }
