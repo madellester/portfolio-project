@@ -96,13 +96,24 @@ li {
     padding-right: 10px;
     padding-left: 10px;
   }
-  h1 {
-    font-size: 45px;
-  }
+
   .job-title {
     font-size: 20px;
     padding-right: 20px;
     padding-bottom: 40px;
+  }
+  h1,
+  .about-me-header,
+  .projects-header {
+    font-size: 45px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .work-experience-section,
+  .skills-section,
+  .interests-section {
+    padding: 20px;
   }
   .btn {
     padding: 5px 3px;
