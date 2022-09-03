@@ -32,7 +32,7 @@ p {
 }
 .ml-pic {
   max-width: 350px;
-  padding-left: 20px;
+  padding-left: 40px;
 }
 
 .contact-section {
@@ -76,16 +76,23 @@ li {
   .hero {
     padding: 20px;
     padding-top: 100px;
+    padding-left: 20px;
   }
   .ml-pic {
     max-width: 200px;
     padding-right: 10px;
+    padding-left: 10px;
   }
   h1 {
-    font-size: 1px;
+    font-size: 35px;
   }
   .job-title {
-    font-size: 14px;
+    font-size: 10px;
+    padding-right: 10px;
+  }
+  .btn {
+    padding: 5px 1px;
+    font-size: 10px;
   }
   .header {
     font-size: 20px;
