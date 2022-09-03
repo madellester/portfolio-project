@@ -114,17 +114,18 @@ li {
   .skills-section,
   .interests-section {
     padding: 20px;
+    font-size: 12px;
   }
   .btn {
     padding: 5px 3px;
     font-size: 10px;
   }
   .header {
-    font-size: 20px;
+    font-size: 25px;
   }
   .contact-message,
   .app-description {
-    font-size: 12px;
+    font-size: 14px;
   }
   .contact-section {
     padding: 20px;
