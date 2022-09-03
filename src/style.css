@@ -76,6 +76,7 @@ li {
   .hero {
     padding: 20px;
     padding-top: 100px;
+    text-align: center;
   }
   .ml-pic {
     max-width: 150px;
