@@ -95,23 +95,19 @@ li {
 @media (max-width: 960px) {
   .hero {
     padding: 20px;
-    padding-top: 100px;
-    text-align: center;
-  }
-
-  .job-title {
-    font-size: 20px;
-    padding-right: 20px;
-    padding-bottom: 10px;
-  }
-  h1,
-  .about-me-header,
-  .projects-header {
-    padding: 20px;
+    padding-top: 50px;
     text-align: center;
   }
   h1 {
     font-size: 55px;
+    font-weight: 900px;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  .job-title {
+    font-size: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
   }
 
   .about-me-header,
@@ -119,6 +115,7 @@ li {
     font-size: 45px;
     padding-top: 80px;
     padding-bottom: 10px;
+    text-align: ;
   }
   .work-experience-section,
   .skills-section,
