@@ -98,11 +98,6 @@ li {
     padding-top: 100px;
     text-align: center;
   }
-  .ml-pic {
-    max-width: 100px;
-    padding-right: 10px;
-    padding-left: 10px;
-  }
 
   .job-title {
     font-size: 20px;
@@ -180,10 +175,5 @@ li {
   .boba-app {
     padding-left: 5px !important;
     padding-right: 5px !important;
-  }
-  .ml {
-    display: flex;
-    align-items: center;
-    justify-content: center;
   }
 }
