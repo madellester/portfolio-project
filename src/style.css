@@ -113,9 +113,10 @@ li {
   .about-me-header,
   .projects-header {
     font-size: 45px;
+    padding: 0px;
     padding-top: 80px;
     padding-bottom: 10px;
-    text-align: ;
+    text-align: center;
   }
   .work-experience-section,
   .skills-section,
@@ -176,7 +177,7 @@ li {
   .ml-pic {
     display: block;
     margin: 0 auto;
-    max-width: 300px;
+    max-width: 200px;
     padding: 0px;
     padding-bottom: 20px;
   }
