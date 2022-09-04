@@ -181,4 +181,9 @@ li {
     padding-left: 5px !important;
     padding-right: 5px !important;
   }
+  .ml {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
