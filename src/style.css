@@ -97,7 +97,7 @@ li {
 @media (max-width: 960px) {
   .hero {
     padding: 20px;
-    padding-top: 50px;
+    padding-top: 70px;
     text-align: center;
   }
   h1 {
@@ -116,8 +116,8 @@ li {
   .projects-header {
     font-size: 45px;
     padding: 0px;
-    padding-top: 80px;
-    padding-bottom: 10px;
+    padding-top: 100px;
+    padding-bottom: 30px;
     text-align: center;
   }
   .work-experience-section,
@@ -136,8 +136,9 @@ li {
     padding-bottom: 80px;
   }
   .btn {
-    padding: 8px 4px;
     font-size: 14px;
+    padding: 8px 4px;
+    margin: 0px;
   }
   .header {
     font-size: 25px;
@@ -151,8 +152,8 @@ li {
     font-size: 14px;
   }
   .contact-section {
-    padding: 20px;
-    padding-top: 80px;
+    padding: 100px;
+    padding-top: 200px;
   }
   .social-media {
     font-size: 10px;
@@ -160,22 +161,16 @@ li {
   .app {
     padding: 1px;
   }
-  .boba-app {
-    padding-top: 5px !important;
-    padding-bottom: 20px !important;
-  }
-  .weather-app {
-    padding-bottom: 40px !important;
-  }
-  .portfolio-app {
-    padding-bottom: 5px !important;
-  }
-  .portfolio-app,
+  .boba-app,
   .weather-app,
-  .boba-app {
-    padding-left: 5px !important;
-    padding-right: 5px !important;
+  .portfolio-app,
+  .app-description {
+    padding-top: 0px !important;
+    padding-bottom: 5px !important;
+    padding-left: 2px !important;
+    padding-right: 2px !important;
   }
+
   .ml-pic {
     display: block;
     margin: 0 auto;
