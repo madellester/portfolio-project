@@ -101,7 +101,7 @@ li {
     text-align: center;
   }
   h1 {
-    font-size: 55px;
+    font-size: 45px;
     font-weight: 900px;
     text-align: center;
     padding-bottom: 10px;
@@ -179,9 +179,9 @@ li {
   .ml-pic {
     display: block;
     margin: 0 auto;
-    max-width: 200px;
+    max-width: 150px;
     padding: 0px;
-    padding-bottom: 40px;
-    padding-top: 40px;
+    padding-bottom: 25px;
+    padding-top: 30px;
   }
 }
