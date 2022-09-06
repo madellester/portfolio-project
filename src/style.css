@@ -13,17 +13,20 @@
 .job-title {
   font-size: 20px;
 }
+
 .projects-header,
 .about-me-header {
   padding-left: 160px;
-  background-color: var(--primary-color);
-  padding-bottom: 30px;
 }
+
 .projects-header,
 .about-me-header,
 .contact-me-header {
+  background-color: var(--primary-color);
   padding-top: 100px;
+  padding-bottom: 30px;
 }
+
 .contact-section {
   text-align: center;
 }
@@ -115,6 +118,12 @@ li {
 .contact-btn {
   color: white;
 }
+.contact-message {
+  font-size: 25px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
 @media (max-width: 960px) {
   .hero {
     padding: 20px;
@@ -164,13 +173,16 @@ li {
   .header {
     font-size: 25px;
   }
-  .contact-message,
+
   .app-description,
   li,
   .interests-description,
   .skills-description,
   .work-description {
     font-size: 14px;
+  }
+  .contact-message {
+    font-size: 20px;
   }
   .contact-section {
     padding: 100px;
