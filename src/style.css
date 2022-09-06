@@ -195,7 +195,7 @@ li {
     margin: 0 auto;
     max-width: 150px;
     padding: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 1px;
     padding-top: 30px;
   }
   .app-preview-display {
