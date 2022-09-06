@@ -109,12 +109,11 @@ li {
   text-align: left;
 }
 
-.app-launch-btn {
-  margin-right: 460px;
-}
-
 .social-media-contact-page {
   padding-top: 350px;
+}
+.contact-btn {
+  color: white;
 }
 @media (max-width: 960px) {
   .hero {
