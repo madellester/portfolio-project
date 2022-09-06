@@ -72,6 +72,7 @@ li {
 }
 .app-preview-display {
   padding-bottom: 160px;
+  margin-left: 100px;
 }
 hr {
   color: var(--secondary-color);
@@ -98,22 +99,8 @@ li {
   color: var(--secondary-color) !important;
 }
 
-.boba-image,
-.portfolio-image {
-  margin-right: 60px;
-}
-.weather-image {
-  margin-left: 60px;
-}
-.boba-app,
-.weather-app,
-.portfolio-app,
-.app-description {
-  text-align: left;
-}
-
 .social-media-contact-page {
-  padding-top: 350px;
+  padding-top: 246px;
 }
 .contact-btn {
   color: white;
