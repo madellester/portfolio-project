@@ -130,7 +130,8 @@ li {
   }
 
   .about-me-header,
-  .projects-header {
+  .projects-header,
+  .contact-me-header {
     font-size: 45px;
     padding: 0px;
     padding-top: 100px;
@@ -171,10 +172,7 @@ li {
   .contact-message {
     font-size: 20px;
   }
-  .contact-section {
-    padding: 100px;
-    padding-top: 200px;
-  }
+
   .social-media {
     font-size: 10px;
   }
