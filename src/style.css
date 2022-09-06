@@ -13,18 +13,24 @@
 .job-title {
   font-size: 20px;
 }
-
 .projects-header,
 .about-me-header {
-  background-color: var(--primary-color);
-  padding-top: 100px;
   padding-left: 160px;
+  background-color: var(--primary-color);
   padding-bottom: 30px;
 }
-
+.projects-header,
+.about-me-header,
+.contact-me-header {
+  padding-top: 100px;
+}
+.contact-section {
+  text-align: center;
+}
 h1,
 .projects-header,
-.about-me-header {
+.about-me-header,
+.contact-me-header {
   color: var(--secondary-color);
   font-family: var(--primary-font);
   font-size: 60px;
@@ -39,10 +45,6 @@ li {
   padding-left: 40px;
 }
 
-.contact-section {
-  padding: 200px;
-  text-align: center;
-}
 .fa-brands {
   font-size: 25px;
 }
@@ -109,6 +111,10 @@ li {
 
 .app-launch-btn {
   margin-right: 460px;
+}
+
+.social-media-contact-page {
+  padding-top: 350px;
 }
 @media (max-width: 960px) {
   .hero {
